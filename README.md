@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kharsa-Style</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kharsa-style&label=Profile%20views&color=0e75b6&style=flat" alt="kharsa-style" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kharsa-style" alt="kharsa-style" /></a> </p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="150" align="right" />
+</p>
 
 - 🌱 I’m currently learning **Python Development**
 
