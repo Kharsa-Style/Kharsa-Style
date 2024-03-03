@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python Development**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about ***Python***
 
 - 📫 How to reach me **MazanAli65@hotmail.com**
 
