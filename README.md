@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kharsa-style" alt="kharsa-style" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
-
-- 📝 I regularly write articles on [https://rahuldkjain.github.io/gh-profile-readme-generator/?utm_source=GitHub&utm_campaign=%23GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/?utm_source=GitHub&utm_campaign=%23GitHub)
+- 🌱 I’m currently learning **Python Development**
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **Kharsa-Style@hotmail.com**
+- 📫 How to reach me **Kharsa65@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
